@@ -1,0 +1,6 @@
+C:\Projects\WindowsDebuggingPracticalFoundationsX86\Book\Chapter02\ArithmeticProjectCSharp.Net\bin\Release\ArithmeticProjectCSharp.Net.exe.config
+C:\Projects\WindowsDebuggingPracticalFoundationsX86\Book\Chapter02\ArithmeticProjectCSharp.Net\bin\Release\ArithmeticProjectCSharp.Net.exe
+C:\Projects\WindowsDebuggingPracticalFoundationsX86\Book\Chapter02\ArithmeticProjectCSharp.Net\bin\Release\ArithmeticProjectCSharp.Net.pdb
+C:\Projects\WindowsDebuggingPracticalFoundationsX86\Book\Chapter02\ArithmeticProjectCSharp.Net\obj\Release\ArithmeticProjectCSharp.Net.csproj.CoreCompileInputs.cache
+C:\Projects\WindowsDebuggingPracticalFoundationsX86\Book\Chapter02\ArithmeticProjectCSharp.Net\obj\Release\ArithmeticProjectCSharp.Net.exe
+C:\Projects\WindowsDebuggingPracticalFoundationsX86\Book\Chapter02\ArithmeticProjectCSharp.Net\obj\Release\ArithmeticProjectCSharp.Net.pdb
